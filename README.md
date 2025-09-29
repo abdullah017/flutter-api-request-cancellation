@@ -63,3 +63,10 @@ lib/
 ├── main.dart         # Uygulamanın giriş noktası
 └── providers.dart    # Riverpod provider'larının tanımlandığı yer
 ```
+
+
+
+https://github.com/user-attachments/assets/8ba95c78-df81-46e8-a1a3-89e4e4103764
+
+
+
