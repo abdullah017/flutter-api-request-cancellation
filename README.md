@@ -4,6 +4,8 @@ Bu proje, Flutter uygulamalarında API çağrılarının yaşam döngüsünü (l
 
 Bu proje, aşağıdaki Medium makalesinin pratik uygulaması olarak geliştirilmiştir:
 
+https://abdullahtas.medium.com/flutterda-api-call-cancellation-i%CC%87%C5%9Flemleri-4a2780af4b5d
+
 
 ---
 
